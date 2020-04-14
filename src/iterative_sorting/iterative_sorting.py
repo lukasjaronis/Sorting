@@ -61,9 +61,6 @@ print(f'bubble {bubble_sort(bubble_arr)}')
 
 # STRETCH: implement the Count Sort function below
 
-count_array = [3, 2, 2, 12, 12, 10]
-
-
 def count_sort(arr, maximum=-1):
 
     return arr
